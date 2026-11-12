@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20261110-0217-Experimental"
+	Name="Aileens_Laptop"
+	Generator="ctest-4.3.1-msvc1"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.51.36256.0"
+	OSName="Windows"
+	Hostname="Aileens_Laptop"
+	OSRelease="10.0.26200"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ModelName="AMD Ryzen 9 7940HS w/ Radeon 780M Graphics"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="23552"
+	TotalPhysicalMemory="31963"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4001.000000"
+	>
+	<Testing>
+		<StartDateTime>Nov 12 10:45 Eastern Standard Time</StartDateTime>
+		<StartTestTime>1794498335</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 12 10:45 Eastern Standard Time</EndDateTime>
+		<EndTestTime>1794498336</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

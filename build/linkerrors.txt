@@ -1,0 +1,8 @@
+================================================================================
+Linker Errors
+Generated: 2026-11-10T16:13:12.197Z
+Total Errors: 1
+================================================================================
+
+[LNK1168] (MSVC)
+cannot open C:\Users\Ailee\Downloads\WeatherApp_Project\build\Debug\WeatherApp.exe for writing [C:\Users\Ailee\Downloads\WeatherApp_Project\build\WeatherApp.vcxproj]

@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "WeatherApp (MSVC)",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/Debug/WeatherApp.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "environment": [
+        {
+          "name": "PATH",
+          "value": "C:\\Qt\\6.10.3\\msvc2022_64\\bin;${env:PATH}"
+        },
+        {
+          "name": "QT_PLUGIN_PATH",
+          "value": "C:\\Qt\\6.10.3\\msvc2022_64\\plugins"
+        },
+        {
+          "name": "QT_QPA_PLATFORM_PLUGIN_PATH",
+          "value": "C:\\Qt\\6.10.3\\msvc2022_64\\plugins\\platforms"
+        },
+        {
+          "name": "WEATHER_API_KEY",
+          "value": "${env:WEATHER_API_KEY}"
+        }
+      ]
+    }
+  ]
+}

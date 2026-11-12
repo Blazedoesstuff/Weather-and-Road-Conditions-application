@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ailee\Downloads\WeatherApp_Project\build\CMakeFiles\dc6a6da0893ac5686e3716430547771f\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ailee\Downloads\WeatherApp_Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Ailee\Downloads\WeatherApp_Project\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23562929-0A14-3F9B-9441-6AF3EAAA69EC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
